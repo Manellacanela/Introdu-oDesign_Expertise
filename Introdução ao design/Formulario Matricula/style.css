@@ -1,0 +1,27 @@
+body{
+    background:#5B4c99; 
+    font-family: Nunito;
+    text-align: center;
+    
+}
+
+#box{
+    margin-top: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#box option {
+    width: 100%;
+    max-width: 800px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+ 
+ 
+ 
+ 
+ 
